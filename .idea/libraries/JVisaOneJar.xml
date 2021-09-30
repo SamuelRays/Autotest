@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="JVisaOneJar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/resources/JVisaOneJar.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/resources/JVisaOneJar.jar!/" />
+    </SOURCES>
+  </library>
+</component>

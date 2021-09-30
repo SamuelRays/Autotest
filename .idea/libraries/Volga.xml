@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Volga">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/resources/Volga.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/resources/Volga.jar!/" />
+    </SOURCES>
+  </library>
+</component>
